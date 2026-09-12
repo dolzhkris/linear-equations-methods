@@ -1,7 +1,7 @@
 # linear-equations-methods
 Solving systems of linear equations using the Gaussian elimination and Gauss-Seidel methods in Python.
 
-The project was developed as part of university work during my second year of study.
+The project was developed as part of university work during the second year of university.
 
 ## Key Variables
 
